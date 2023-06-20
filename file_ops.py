@@ -55,11 +55,3 @@ while True:
     else:
         read_files()    
         continue
-    
-
-
-# In[ ]:
-
-
-C:\Users\user\Desktop\Dersler\Yapay Zeka\Final
-
